@@ -1,0 +1,2 @@
+serviceClass: co.edu.unal.gae.client.GreetingService
+path: 1A0557C2BBDE531175D1BA84DA041327.gwt.rpc
